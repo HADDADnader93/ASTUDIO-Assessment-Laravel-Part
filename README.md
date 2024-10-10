@@ -40,7 +40,7 @@ Now, open the `.env` file in a text editor and update the database connection se
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=astudio_db
+DB_DATABASE=astudio_db //astudio_db.sql in the repo
 DB_USERNAME=root
 DB_PASSWORD=Luffygear80..
 ```
